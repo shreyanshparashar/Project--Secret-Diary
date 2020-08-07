@@ -1,6 +1,6 @@
 <?php
 
-    $link = mysqli_connect("shareddb-o.hosting.stackcp.net", "username", "password", "secretdi-3130393345");
+    $link = mysqli_connect("shareddb-o.hosting.stackcp.net", "username", "password", "username");
         
         if (mysqli_connect_error()) {
             
